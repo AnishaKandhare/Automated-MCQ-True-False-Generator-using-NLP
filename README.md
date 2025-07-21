@@ -1,4 +1,4 @@
-MCQ-True-False-Generator-with-AI
+Automated-MCQ-True-False-Generator-using-NLP
 
 This project generates Multiple Choice Questions (MCQs) and True/False questions from input PDFs or text files using Natural Language Processing (NLP) and optionally OpenAI's GPT-based models. The goal is to automate educational content creation for assessments and learning platforms.
 
